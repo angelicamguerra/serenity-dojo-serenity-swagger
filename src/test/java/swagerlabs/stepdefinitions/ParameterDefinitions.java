@@ -1,4 +1,4 @@
-package starter.stepdefinitions;
+package swagerlabs.stepdefinitions;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.ParameterType;
